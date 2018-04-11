@@ -1,0 +1,8 @@
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\bin\Debug\netstandard2.0\MessagesLIB.deps.json
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\bin\Debug\netstandard2.0\MessagesLIB.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\bin\Debug\netstandard2.0\MessagesLIB.pdb
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\obj\Debug\netstandard2.0\MessagesLIB.csproj.CoreCompileInputs.cache
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\obj\Debug\netstandard2.0\MessagesLIB.AssemblyInfoInputs.cache
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\obj\Debug\netstandard2.0\MessagesLIB.AssemblyInfo.cs
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\obj\Debug\netstandard2.0\MessagesLIB.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB\obj\Debug\netstandard2.0\MessagesLIB.pdb

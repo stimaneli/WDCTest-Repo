@@ -1,0 +1,17 @@
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.Tests.deps.json
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.Tests.runtimeconfig.json
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.Tests.runtimeconfig.dev.json
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.Tests.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.Tests.pdb
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\bin\Debug\netcoreapp2.0\MessagesLIB.pdb
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\obj\Debug\netcoreapp2.0\MessagesLIB.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\obj\Debug\netcoreapp2.0\MessagesLIB.Tests.AssemblyInfoInputs.cache
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\obj\Debug\netcoreapp2.0\MessagesLIB.Tests.AssemblyInfo.cs
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\obj\Debug\netcoreapp2.0\MessagesLIB.Tests.csproj.CopyComplete
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\obj\Debug\netcoreapp2.0\MessagesLIB.Tests.dll
+c:\Users\Sim\Documents\Visual Studio 2015\Projects\WDCTest\MessagesLIB.Tests\obj\Debug\netcoreapp2.0\MessagesLIB.Tests.pdb
