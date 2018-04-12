@@ -8,7 +8,12 @@ namespace Receive
     {
         static void Main(string[] args)
         {
-            // Message Options
+            /// <summary>
+            /// Message Options - Required 
+            ///    -- Used to interact with the Broker
+            ///    -- Default Options setup to work with default settings for Broker
+            ///    -- Set properties to match your environment, <see cref="MessageOptions"/>  
+            /// </summary>
             var message_options = new MessageOptions();  
 
             Console.WriteLine(" --- Welcome, waiting for messages ---");
